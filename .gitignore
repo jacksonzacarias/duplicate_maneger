@@ -2,4 +2,3 @@ state.db
 *.csv
 /.dup_setor_state_bash/
 *.log
-montar_repositorio_backdate_2018.sh
