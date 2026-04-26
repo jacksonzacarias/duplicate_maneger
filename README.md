@@ -61,6 +61,9 @@ O sistema foi projetado para evitar perda de dados:
 
 ## 📸 Exemplos
 
+### Demonstração em GIF
+![Demonstração](./Vamos%20para%20um%20com%20informa%C3%A7%C3%B5es%20(1)%20(1).gif)
+
 ### Resultado da varredura
 ![Scan](./resultSacan.png)
 
